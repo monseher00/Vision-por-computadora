@@ -62,10 +62,24 @@ La explicación matemática más detallada involucra el ordenamiento de conjunto
 Esta operación se repite para cada posición de la ventana deslizante a lo largo de la imagen. La principal ventaja de utilizar la mediana en lugar de otros métodos de filtrado es su capacidad para preservar los detalles y bordes en la imagen, ya que selecciona el valor central sin verse afectado por valores extremos o ruido puntual.
 
 ### Mockup (bosquejo)
+![Copia de Fractales y dónde encontarlos (1)](https://github.com/monseher00/Vision-por-computadora/assets/92997919/cff93fe7-3035-4c59-8a3e-96b9ac908e72)
+
 
 ## Código
 
 ### Visualización del programa
+
+1. Visualización de la ventana:
+   ![Captura de pantalla 2023-11-13 121532](https://github.com/monseher00/Vision-por-computadora/assets/92997919/c11a36b8-557f-439f-816c-55d1356f2650)
+
+2. Cargar imagen:
+   ![Captura de pantalla 2023-11-13 121605](https://github.com/monseher00/Vision-por-computadora/assets/92997919/b15c2d9b-cdfd-4280-aecb-e29760586a3b)
+
+3. Imagen original (sin filtro):
+   ![Captura de pantalla 2023-11-13 121630](https://github.com/monseher00/Vision-por-computadora/assets/92997919/0b29885f-88a0-4569-820f-619f1602452f)
+
+4. Deslizador para aplicar el filtro:
+![Captura de pantalla 2023-11-13 121923](https://github.com/monseher00/Vision-por-computadora/assets/92997919/f2a1f634-be00-4e8e-8923-81d8085f843f)
 
 
 ## Conclusión
